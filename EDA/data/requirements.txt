@@ -1,0 +1,5 @@
+numpy
+pandas
+scikit-learn
+openai
+groq # this is a hardware company. so models can run here faster
