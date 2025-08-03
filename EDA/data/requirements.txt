@@ -6,3 +6,4 @@ groq # this is a hardware company. so models can run here faster
 seaborn
 matplotlib
 dotenv
+imbalanced-learn
